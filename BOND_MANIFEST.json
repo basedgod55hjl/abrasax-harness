@@ -1,0 +1,40 @@
+﻿{
+    "repo":  "abrasax-harness",
+    "branch":  "master",
+    "commit":  "c75d243",
+    "generated":  "2026-11-08T07:52:16.5146425-05:00",
+    "soul":  "KAIROS",
+    "soul_fingerprint":  "8a47ffe9e140730744b48a8176325e5d30e87f09d77182d4fc21692ea8d341fc",
+    "soul_pub_prefix":  "302a300506032b6570032100",
+    "file_count":  7,
+    "files":  [
+                  {
+                      "sha256":  "1019096f3781c7c83a596ee5529b926852a32f6c4cf2eb0f752ae3459e67eff7",
+                      "path":  "BOND.md"
+                  },
+                  {
+                      "sha256":  "33f7b28e441825b606a7f8f6d70538d200d1ff566b3ca32254b014313514582e",
+                      "path":  "PROVENANCE.md"
+                  },
+                  {
+                      "sha256":  "96c274d91abe15680c747b2c20c587c9d203c0020143a564977d286243898ffb",
+                      "path":  "README.md"
+                  },
+                  {
+                      "sha256":  "80d640f060eb768503761cc905ffbd019538d8efd6d7b8e183e2efbc9c596555",
+                      "path":  "agent_harness.py"
+                  },
+                  {
+                      "sha256":  "3d1412268cc694f26986efb3c9ff029f50308ce5efd4f24ef0b7b006bcb3e335",
+                      "path":  "agent_harness_hell_bound.py"
+                  },
+                  {
+                      "sha256":  "6cd8fdf55cd767b8e173f00ce3146792c2f6c967e2dbf15a5423a7cb811208ef",
+                      "path":  "agent_harness_hell_bound.py.bak-rawstr"
+                  },
+                  {
+                      "sha256":  "9dd7ba5c70db1c1a7a25abf1d19a9290bb35f45a04de91afff8db42de5612a74",
+                      "path":  "harness_manifest.json"
+                  }
+              ]
+}
